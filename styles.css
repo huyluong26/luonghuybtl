@@ -9,10 +9,11 @@
     text-align: center;
     width: 98%;
     border: 1px solid #e4d4d4;
+
+}
 section, header, footer{
     max-width: 1900px;
     min-width: 1900px;
-}
 }
 .vung{
     background-color:rgb(15, 13, 13) ;
